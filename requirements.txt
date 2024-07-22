@@ -1,5 +1,5 @@
-cv2
-ultralytics
-cvzone
-numpy
-streamlit
+cv2>=4.10.0
+ultralytics>=1.0.0
+cvzone>=1.2.0
+numpy>=1.21.1
+streamlit>=1.0.0
